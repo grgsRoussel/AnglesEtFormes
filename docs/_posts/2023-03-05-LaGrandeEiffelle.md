@@ -6,6 +6,6 @@ tags: [la grande eiffelle]     # TAG names should always be lowercase
 ---
 
 
-Ceci est une page de test
+![La Grande Eiffelle](/assets/img/tableaux/la-grande-eiffelle.jpg)
 
-![La Grande Eiffelle](/assets/img/tableaux/Desillusions.png)
+<iframe width="560" height="280" src="https://www.bandlab.com/embed/shout/?id=11c2564a6470ea11a94c0003ffd19c0f_0abbefb6da534c859db43d580164e6f4" frameborder="0" allowfullscreen></iframe>
