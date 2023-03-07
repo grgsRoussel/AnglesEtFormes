@@ -24,7 +24,7 @@ title: Angles Lignes et Formes           # the main title
 tagline: Exposition Sonore et Visuelle     # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Exposition visuelle et sonore par Emmeline Mottais et Georges Roussel
+  Exposition visuelle et sonore par Emeline Mottais et Georges Roussel
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://grgsroussel.github.io/'
@@ -38,7 +38,7 @@ url: 'https://grgsroussel.github.io/'
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Emmeline Mottais & Georges Roussel
+  name: Emeline Mottais & Georges Roussel
   email: example@domain.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
