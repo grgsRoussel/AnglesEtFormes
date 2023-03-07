@@ -8,7 +8,7 @@ order: 2
 
 # Angles Lignes et Formes
 
-Cette exposition est une collaboration entre Emeline Mottais et Georges Roussel. (Texte supplmentaire)
+Cette exposition est une collaboration entre Emeline Mottais et Georges Roussel.
 
 # Emeline Mottais
 
