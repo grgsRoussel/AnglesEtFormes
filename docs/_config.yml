@@ -21,13 +21,13 @@ timezone: Europe/Paris
 
 title: Angles Lignes et Formes           # the main title
 
-tagline: Exposition    # it will display as the sub-title
+tagline: Exposition Sonore et Visuelle     # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Exposition visuelle et sonore par Emmeline Mottais et Georges Roussel
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://grgsroussel.github.io'
 
 # github:
 #   username: github_username             # change to your github username
