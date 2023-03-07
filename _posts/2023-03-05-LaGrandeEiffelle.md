@@ -5,6 +5,8 @@ categories: [La Grande Eiffelle]
 tags: [la grande eiffelle]     # TAG names should always be lowercase
 ---
 
+### L'écoute au casque est indispensable pour une expérience optimale !
+N'hésitez pas en demander auprès de ???
 
 ![La Grande Eiffelle](/assets/img/tableaux/la-grande-eiffelle.jpg)
 

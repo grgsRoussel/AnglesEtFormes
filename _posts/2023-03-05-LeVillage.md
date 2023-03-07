@@ -5,6 +5,8 @@ categories: [Le Village]
 tags: [Le Village]     # TAG names should always be lowercase
 ---
 
+### L'écoute au casque est indispensable pour une expérience optimale !
+N'hésitez pas en demander auprès de ???
 
 ![Le Village](/assets/img/tableaux/LeVillage2.png)
 

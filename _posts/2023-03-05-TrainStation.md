@@ -5,6 +5,8 @@ categories: [Train Station]
 tags: [Train Station]     # TAG names should always be lowercase
 ---
 
+### L'écoute au casque est indispensable pour une expérience optimale !
+N'hésitez pas en demander auprès de ???
 
 ![Train Station](/assets/img/tableaux/TrainStation.jpg)
 
