@@ -1,8 +1,9 @@
 # Build settings
 
-port: 4000
+#port: 4000
 markdown:  kramdown
 permalink: /:title
+
 url    : "https://grgsroussel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/AnglesEtFormes"
 
