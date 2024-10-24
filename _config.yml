@@ -3,10 +3,13 @@
 port: 4000
 markdown:  kramdown
 permalink: /:title
+url    : "https://grgsroussel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/AnglesEtFormes"
+
 plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "AnglesEtFormes"
+title:		   "Angles Et Formes"
 description: "Angles Et Formes - Exposition"
 author:      "Georges Roussel"
