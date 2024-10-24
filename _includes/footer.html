@@ -1,23 +1,14 @@
-<!-- The Footer -->
-
 <footer>
-  <div class="container pl-lg-4 pr-lg-4">
-    <div class="d-flex justify-content-between align-items-center text-muted ml-md-3 mr-md-3">
-      <div class="footer-left">
-        <p class="mb-0">
-          © {{ 'now' | date: "%Y" }}
-          <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
-          {% if site.data.locales[site.lang].copyright.brief %}
-          <span data-toggle="tooltip" data-placement="top"
-            title="{{ site.data.locales[site.lang].copyright.verbose }}">{{ site.data.locales[site.lang].copyright.brief }}</span>
-          {% endif %}
-        </p>
-      </div>
-
-      <div class="footer-right">
-        <p class="mb-0">
-        </p>
-      </div>
+  <div class="footer-wrap">
+    <div class="footer-tagline">
+      <p>{{ site.data.settings.footer }}</p>
+    </div>
+    <div class="social-media">
+      <nav>
+        {% for item in site.data.settings.social %}
+          <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+        {% endfor %}
+      </nav>
     </div>
   </div>
 </footer>
