@@ -1,14 +1,12 @@
 ---
-title: Nous Tous
-date: 2023-03-05 00:00:20 +/-0000
-categories: [Nous Tous]
-tags: [Nous Tous]     # TAG names should always be lowercase
+layout: post
+title: "Nous Tous"
 ---
 
 ### L'écoute au casque est indispensable pour une expérience optimale !
-N'hésitez pas en demander auprès de Nootoos.
+N'hésitez pas en demander auprès de l'organisation.
 
-![Nous Tous](/assets/img/tableaux/NousTous.png)
+![Nous Tous](/assets/img/projects/Nootoos/NousTous.png)
 
 <CENTER>
 

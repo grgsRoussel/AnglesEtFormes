@@ -1,14 +1,12 @@
 ---
-title: Au départ d'une gare
-date: 2023-03-05 00:00:30 +/-0000
-categories: [Au départ d'une gare]
-tags: [Au départ d'une gare]     # TAG names should always be lowercase
+layout: post
+title: "Au Départ d'une Gare"
 ---
 
 ### L'écoute au casque est indispensable pour une expérience optimale !
-N'hésitez pas en demander auprès de Nootoos.
+N'hésitez pas en demander auprès de l'organisation.
 
-![Train Station](/assets/img/tableaux/TrainStation.jpg)
+![Train Station](/assets/img/projects/TrainStation/TrainStation.jpg)
 
 <CENTER>
 

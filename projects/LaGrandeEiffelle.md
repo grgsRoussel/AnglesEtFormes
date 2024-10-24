@@ -1,14 +1,12 @@
 ---
-title: La Grande Eiffelle
-date: 2023-03-05 00:00:25 +/-0000
-categories: [La Grande Eiffelle]
-tags: [la grande eiffelle]     # TAG names should always be lowercase
+layout: post
+title: "La Grande Eiffelle"
 ---
 
 ### L'écoute au casque est indispensable pour une expérience optimale !
-N'hésitez pas en demander auprès de Nootoos.
+N'hésitez pas en demander auprès de l'organisation.
 
-![La Grande Eiffelle](/assets/img/tableaux/la-grande-eiffelle.jpg)
+![La Grande Eiffelle](/assets/img/projects/LaGrandeEiffelle/la-grande-eiffelle.jpg)
 
 <CENTER>
 
