@@ -14,3 +14,5 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 title:		   "Angles Et Formes"
 description: "Angles Et Formes - Exposition"
 author:      "Georges Roussel"
+
+uses: actions/configure-pages@v5.0.0
